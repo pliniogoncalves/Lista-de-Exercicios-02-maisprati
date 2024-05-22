@@ -20,6 +20,8 @@ Independentemente da forma de entrega escolhida, siga as instruções abaixo par
 
 1. Certifique-se de ter o Node.js instalado na sua máquina. Você pode baixá-lo em [nodejs.org](https://nodejs.org/).
 2. Abra o terminal e navegue até o diretório onde os arquivos estão localizados.
-3. Execute o comando `node nome_do_arquivo.js`, onde `nome_do_arquivo.js` é o nome do arquivo que contém as soluções dos exercícios.
+3. instale as Dependencias: `npm install`
+4. Instale o prompt-sync: `npm install prompt-sync`
+5. Execute o comando `node index.js`, onde `index.js` é o nome do arquivo que contém as soluções dos exercícios dentro de cada pasta.
 
 Com estas instruções, você será capaz de configurar, implementar e executar os exercícios localmente, independentemente da plataforma escolhida para a entrega. Se tiver alguma dúvida ou problema, não hesite em entrar em contato.
